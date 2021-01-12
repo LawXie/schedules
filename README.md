@@ -1,15 +1,13 @@
 # Schedules
-
-## Project title
 Project imports data from MCAD downloaded file, categorizes data for each store per relevant account number, and create schedules per store.
 
-### Motivation
+## Motivation
 Manually creating excel schedules can be tedious. This project saves time and focus for more relevant tasks.
 
-#### Technologies
+### Technologies
   - Python 3.7
 
-##### Other information
+#### Other information
 Notes. Involves a lot of duplicate and drop. 
   - mcadcsv - raw datafile
   - agedROs = saved csv file where oldest item age greater 61 days and sum not equal $0
